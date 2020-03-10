@@ -1,0 +1,8 @@
+Below steps need to be followed to execute the project
+
+1.Complete path of the file "auto_fill_data.json" should be given.
+  example: "C:\\tools\\goland2\\goland2\\config\\scratches\\auto_fill_data.json"
+2."json-simple-1.1.1.jar" file is required as a reference library. So it should be added as external jar file.
+3.Program will take two inputs, first one is Number of test cases which will be stored in "noOfTestCases" and second is search query
+  which will be stored in "search".
+4.Program will output suggestion for requested search query on the basis of data given in "auto_fill_data.json" file.
